@@ -5,4 +5,7 @@
 ##### Header 5
 ###### Header 6
 
-add header 1-6 using markdown 
+---
+
+
+![Fintechtocat](https://octodex.github.com/images/Fintechtocat.png)
